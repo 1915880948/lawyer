@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "element-ui": "^2.6.1",
+    "qiniu-js": "^2.5.4",
+    "vue": "^2.6.10",
+    "weui": "^2.3.0"
+  }
+}
